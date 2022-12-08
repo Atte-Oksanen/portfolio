@@ -1,0 +1,11 @@
+#text {
+    border-right: 2px solid black;
+    animation: index_blink 1s steps(1) infinite;
+
+}
+
+@keyframes index_blink {
+  50% {
+    border-color: transparent;
+  }
+}
