@@ -1,3 +1,11 @@
+html {
+  scroll-behavior: smooth;
+}
+
+:root{
+  --headerColor: #f7f7f7;
+  --textColor: #22282A;
+}
 body {
   margin: 0;
   padding: 0;

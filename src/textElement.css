@@ -1,0 +1,33 @@
+.textElement {
+    display: block;
+    position: absolute;
+}
+
+#aboutMe{
+    top: 110%
+}
+
+#myWork{
+    top: 210%;
+}
+
+
+.textElement h2{
+    width: 100%;
+    font-size: 3vw;
+    color: var(--headerColor);
+    padding-top: 40px;
+}
+
+
+.textElement p{
+    background-color: var(--headerColor);
+    color: var(--textColor);
+    margin-top: 15vh;
+    margin-left: 3%;
+    width: 35%;
+    text-align: left;
+    border: 1px solid #2F3E46;
+    filter: drop-shadow(0 0 12px var(--textColor));
+    padding: 20px;
+}

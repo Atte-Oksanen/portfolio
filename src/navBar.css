@@ -1,0 +1,49 @@
+.App nav{
+    display: flex;
+    justify-content: space-between;
+    align-content: center;
+}
+
+
+.nav_links{
+    display: inline-block;
+    text-align: right;
+    position: fixed;
+    top: 30%;
+    right: 10px;
+    width: auto;
+    border-left: 1px solid var(--headerColor);
+    background-color: transparent;
+    padding-top: 3%;
+    padding-bottom: 3%;
+    z-index: 1;
+}
+
+.nav_links ul li{
+    list-style: none;
+    transition: 0.45s;
+}
+
+.nav_links ul li a{
+    display: block;
+    color: var(--headerColor);
+    text-decoration: none;
+    font-size: 120%;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 21px;
+    padding-bottom: 21px;
+    transition: 0.2s;
+}
+
+.nav_links ul {
+    padding-left: 0;
+}
+
+@media(pointer: fine){
+    .nav_links ul li a:hover{
+        color: var(--textColor);
+        background: var(--headerColor);
+        transition: 0.6s;
+    }
+}

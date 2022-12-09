@@ -1,0 +1,20 @@
+.button_fill{
+    display: block;
+    width: fit-content;
+    text-decoration: none;
+    color: var(--headerColor);
+    border: 1px solid var(--headerColor);
+    padding: 12px 34px;
+    font-size: 1,5vw;
+    background: transparent;
+    position: relative;
+    cursor: pointer;
+    transition: 0.4s;
+    margin: auto;
+}
+
+.button_fill:hover{
+    border: 1px solid var(--headerColor);
+    background: var(--headerColor);
+    color: var(--textColor);
+}

@@ -1,0 +1,17 @@
+.header{
+    display: block;
+    width: 60vw;
+    color: var(--headerColor);
+    margin: auto;
+    margin-top: 30vh;
+}
+
+.header h1{
+    font-size: 4vw;
+    margin: 10px;
+}
+
+.header p{
+    margin: 10px 0 20px;
+    font-size: 1vw;
+}
