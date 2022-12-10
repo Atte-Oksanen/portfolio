@@ -1,5 +1,5 @@
 import React from "react";
-import "./textElement.css"
+import "../css/textElement.css"
 
 class MyWork extends React.Component{
     render() {

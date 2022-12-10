@@ -1,5 +1,5 @@
 import React from "react";
-import "./arrowWithAnimation.css"
+import "../css/arrowWithAnimation.css"
 
 class Arrow extends React.Component{
     render(){

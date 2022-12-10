@@ -3,7 +3,8 @@
     width: 60vw;
     color: var(--headerColor);
     margin: auto;
-    margin-top: 30vh;
+    padding-top: 30vh;
+    height: 100vh;
 }
 
 .header h1{

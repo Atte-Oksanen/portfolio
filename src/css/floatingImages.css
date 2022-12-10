@@ -1,0 +1,30 @@
+.header_image {
+    z-index: 0;
+    margin-left: 60%;
+    margin-top: -18vh;
+}
+#large_image_border {
+    aspect-ratio: 9 / 16;
+    height: 50vh;
+    overflow: hidden;
+}
+
+#large_image {
+    height: 90vh;
+    margin-left: -60%;
+    margin-top: -50%;
+}
+
+#small_image_border {
+    aspect-ratio: 1 / 1;
+    height: 22vh;
+    margin-top: -34%;
+    margin-left: 13%;
+    overflow: hidden;
+}
+
+#small_image{
+    height: 35vh;
+    margin-top: -30%;
+    margin-left: -15%;
+}

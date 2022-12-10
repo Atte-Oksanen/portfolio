@@ -1,7 +1,7 @@
 import React from "react";
 import TypeWriter from "./typewriter";
 import Arrow from "./arrowWithAnimation";
-import "./header.css"
+import "../css/header.css"
 import AnimatedButton from "./animatedButton";
 
 

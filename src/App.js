@@ -1,8 +1,8 @@
 import './App.css';
-import Header from "./header"
-import NavBar from './navBar';
-import AboutMe from './aboutMe';
-import MyWork from './myWork';
+import Header from "./components/header"
+import NavBar from './components/navBar';
+import AboutMe from './components/aboutMe';
+import MyWork from './components/myWork';
 
 function App() {
   return (

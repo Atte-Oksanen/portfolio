@@ -1,5 +1,5 @@
 import React from "react";
-import './typeWriter.css'
+import '../css/typeWriter.css'
 class TypeWriter extends React.Component {
   componentDidMount() {
   var dataText = ['stranger','co-worker', 'colleague', 'future boss?', 'friend', 'partner', 'collaborator', 'pal', 'chief', 'recruiter'];

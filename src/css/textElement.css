@@ -1,6 +1,7 @@
 .textElement {
     display: block;
-    position: absolute;
+
+    height: 100vh;
 }
 
 #aboutMe{
