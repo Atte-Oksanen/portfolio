@@ -1,6 +1,5 @@
 .textElement {
     display: block;
-
     height: 100vh;
 }
 
@@ -15,20 +14,20 @@
 
 .textElement h2{
     width: 100%;
-    font-size: 3vw;
+    font-size: 3rem;
     color: var(--headerColor);
-    padding-top: 40px;
+    padding-top: 3rem;
 }
 
 
 .textElement p{
     background-color: var(--headerColor);
     color: var(--textColor);
-    margin-top: 15vh;
-    margin-left: 3%;
+    margin-top: 6rem;
+    margin-left: 3rem;
     width: 35%;
     text-align: left;
     border: 1px solid #2F3E46;
     filter: drop-shadow(0 0 12px var(--textColor));
-    padding: 20px;
+    padding: 1.5rem;
 }

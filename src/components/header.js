@@ -19,7 +19,7 @@ class Header extends React.Component {
                     <br></br>
                     This site is my personal study into UI/UX design and an extension to my CV.
                     <br></br>
-                    I hope that you will enjoy your time here
+                    I hope that you will enjoy your time here.
                 </p>
                 <AnimatedButton />
                 <Arrow />

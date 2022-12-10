@@ -53,7 +53,7 @@ class TypeWriter extends React.Component {
 render() {
   return(
     <>
-    <span> </span>
+    <span><br></br></span>
     <span id = "text">Stranger</span>
     </>
   );}

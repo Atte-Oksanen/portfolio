@@ -3,16 +3,16 @@
     width: 60vw;
     color: var(--headerColor);
     margin: auto;
-    padding-top: 30vh;
+    padding-top: 25vh;
     height: 100vh;
 }
 
 .header h1{
-    font-size: 4vw;
+    font-size: 3.5rem;
     margin: 10px;
 }
 
 .header p{
     margin: 10px 0 20px;
-    font-size: 1vw;
+    font-size: 1rem;
 }
