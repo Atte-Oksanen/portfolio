@@ -19,6 +19,25 @@ body {
   background-image: radial-gradient(#676f74, #333b3d);
   background-position: center;
   background-size: contain;
+  overflow: overlay;
 
+}
+
+::-webkit-scrollbar {
+    width: 10px;
+  }
+  
+
+::-webkit-scrollbar-track {
+    background: #ffffff00;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #888;
+}
+  
+
+::-webkit-scrollbar-thumb:hover {
+    background: #555;
 }
 
