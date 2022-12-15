@@ -1,0 +1,28 @@
+.classDiagram{
+    background-color: white;
+    width: fit-content;
+    border: 1px solid black;
+}
+.classDiagram h3{
+    font-size: 1.2rem;
+    border-bottom: 1px solid black;
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
+    
+}
+
+.classDiagram ul{
+    text-align: left;
+    position: relative;
+    display: block;
+    margin-top: -0.7rem;
+    pad-bottom: 0.3rem;
+}
+
+.classDiagram ul li{
+    font-size: 0.8rem;
+}
+
+#attribute {
+    border-bottom: 1px solid black;
+}
