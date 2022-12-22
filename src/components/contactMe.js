@@ -1,5 +1,4 @@
 import React from "react";
-import DiagramGroup from "./diagramInteractive";
 import CV from "./Cv";
 import LIlogo from "../resources/LI-In-Bug.png"
 import GHlogo from "../resources/github-mark.png"
@@ -23,7 +22,6 @@ class ContactMe extends React.Component{
                 </ul>
                 If I got you interested, more information can be found in my <CV />.
             </p>
-            <DiagramGroup />
 
         </div>
         </>
